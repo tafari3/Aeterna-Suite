@@ -1,0 +1,15 @@
+:root{
+    --color-navy:#0F172A;
+    --color-teal:#0D9488;
+    --color-teal-light:#5EEAD4;
+    --color-gold:#EAB308;
+    --color-grey:#F3F4F6;
+    --color-white:#F9FAFB;
+  
+    --type-h1:40px;
+    --type-h2:32px;
+    --type-h3:24px;
+    --type-body:16px;
+    --type-caption:12px;
+  }
+  
